@@ -1,5 +1,5 @@
 # rotate_screen
-Change the rotate of screen and devices for touchscreen
+Change the rotate of screen and devices for touchscreen and disable the touchpad
  
 For list your devices do : 
 
